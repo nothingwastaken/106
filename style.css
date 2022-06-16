@@ -1,0 +1,31 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background: rgb(0,255,222);
+    background: linear-gradient(90deg, rgba(0,255,222,1) 0%, rgba(236,255,0,1) 31%, rgba(230,115,235,1) 47%, rgba(253,21,21,1) 66%, rgba(0,255,209,1) 90%);
+}
+.header_div{
+    background-color: white;
+    color: red;
+}
+
+.copy_right_footer{
+    margin-top: 100px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aliceblue;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
+
+.header_div p{
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+}
+.main_div button{
+    margin-top:25px;
+    font-weight: bolder;
+}
